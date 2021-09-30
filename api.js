@@ -5,5 +5,7 @@ fetch(url_string)
     .then((response) => response.json())
     .then((jsObject) => {
         console.log(jsObject);
-        document.write(jsObject);
+
     })
+
+
