@@ -52,7 +52,7 @@ body {
   .card-text {
       grid-area: text;
       margin: 10px;
-      color: #000000;
+      color: #bfc1dd;
       font-size: 14px;
   }
 
